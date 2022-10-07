@@ -1,4 +1,4 @@
-# BUS 421 Conjoint Analysis for Tea
+#Conjoint Analysis for Tea
 #By Stephanie Vu
 
 # import conjoint library
